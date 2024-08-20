@@ -1,0 +1,261 @@
+[
+    {
+      "title": "Home",
+      "link": "/"
+    },
+    {
+      "title": "About",
+      "link": "#",
+      "subMenu": [
+        {
+          "title": "About Us",
+          "link": "/about/about-us/"
+        }
+
+        
+      ]
+    },
+    {
+      "title": "Administration",
+      "link": "#",
+      "subMenu": [
+        {
+          "title": "Principal’s Message",
+          "link": "/administration/principals-message/"
+        },
+        {
+          "title": "Public Relations Officer",
+          "link": "/administration/public-relations-officer/"
+        },
+        {
+          "title": "Proctorial Board",
+          "link": "/administration/proctorial-board/"
+        },
+        {
+          "title": "Committees",
+          "link": "/administration/councils/"
+        },
+        {
+          "title": "Parishad",
+          "link": "#"
+        },
+        {
+          "title": "IQAC",
+          "link": "/administration/iqac/"
+        },
+        {
+          "title": "Rules and Regulations",
+          "link": "#",
+          "subMenu": [
+            {
+              "title": "UGC Regulation-2018",
+              "link": "/administration/rules-and-regulations/ugc-regulation-2018/"
+            }
+          ]
+        },
+        {
+          "title": "RUSA",
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "title": "Faculties & Staff",
+      "link": "#",
+      "subMenu": [
+        {
+          "title": "Faculty of Science",
+          "link": "/faculties-staff/faculty-of-science/",
+          "subMenu": [
+            {
+              "title": "Dept. Of Botany",
+              "link": "/faculties-staff/faculty-of-science/dept-of-botany/"
+            },
+            {
+              "title": "Dept. Of Zoology",
+              "link": "/faculties-staff/faculty-of-science/dept-of-zoology/"
+            },
+            {
+              "title": "Dept. Of Chemistry",
+              "link": "/faculties-staff/faculty-of-science/dept-of-chemistry/"
+            },
+            {
+              "title": "Dept. Of Physics",
+              "link": "/faculties-staff/faculty-of-science/dept-of-physics/"
+            },
+            {
+              "title": "Dept. Of Mathematics",
+              "link": "/faculties-staff/faculty-of-science/dept-of-mathematics/"
+            }
+          ]
+        },
+        {
+          "title": "Faculty of Commerce",
+          "link": "/faculties-staff/faculty-of-commerce/"
+        },
+        {
+          "title": "Non Teaching Staff",
+          "link": "/faculties-staff/non-teaching-staff/"
+        }
+      ]
+    },
+    {
+      "title": "Academic",
+      "link": "#",
+      "subMenu": [
+        {
+          "title": "B.Sc.-Bachelors of Science",
+          "link": "/academic/ug-courses/b-sc-bachelors-of-science/"
+        },
+        
+        {
+          "title": "B.Com.-Bachelors of Commerce",
+          "link": "/academic/ug-courses/b-com-bachelors-of-commerce/"
+        },
+        {
+          "title": "M.Sc.-Masters of Science",
+          "link": "/academic/pg-courses/m-sc-masters-of-science/"
+        },
+        
+        {
+          "title": "M.Com.-Masters of Commerce",
+          "link": "/academic/pg-courses/m-com-masters-of-commerce/"
+        },
+
+        {
+          "title": "Other Courses",
+          "link": "/academic/other"
+        }
+         
+         
+      ]
+    },
+    {
+      "title": "Facilities",
+      "link": "#",
+      "subMenu": [
+        {
+          "title": "Multipurpose Hall",
+          "link": "/facilities/multipurpose-hall/"
+        },
+        {
+          "title": "Smart Class Room",
+          "link": "/facilities/smart-class-room/"
+        },
+        {
+          "title": "Women Health Club",
+          "link": "/facilities/women-health-club/"
+        },
+        {
+          "title": "Computer Lab",
+          "link": "/facilities/computer-lab/"
+        },
+        {
+          "title": "Library",
+          "link": "/facilities/library/"
+        },
+        {
+          "title": "E-Library",
+          "link": "/facilities/e-library/"
+        },
+        {
+          "title": "E-Learning Park",
+          "link": "/facilities/e-learning-park/"
+        },
+        {
+          "title": "College Store",
+          "link": "/facilities/college-store/"
+        }
+      ]
+    },
+    {
+      "title": "Gallery",
+      "link": "#",
+      "subMenu": [
+        {
+          "title": "Video Gallery",
+          "link": "/gallery/video/"
+        },
+        {
+          "title": "Photo Gallery",
+          "link": "/gallery/photo/"
+        },
+        {
+          "title": "In Newspaper",
+          "link": "/gallery/news/"
+        }
+      ]
+    },
+    {
+      "title": "Students",
+      "link": "#",
+      "subMenu": [
+        {
+          "title": "Admission Process",
+          "link": "#"
+        },
+        {
+          "title": "Prospectus",
+          "link": "#"
+        },
+        {
+          "title": "Fee Structure",
+          "link": "#"
+        },
+        {
+          "title": "Alumni",
+          "link": "#"
+        },
+        {
+          "title": "Alumni Association",
+          "link": "#"
+        },
+        {
+          "title": "Student Profile",
+          "link": "#"
+        },
+        {
+          "title": "Student Topper's Details",
+          "link": "/students/topper-details"
+        }
+        ,
+        {
+          "title": "Student Achievements",
+          "link": "/students/achievements"
+        },
+        {
+          "title": "Students Union",
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "title": "Rankings",
+      "link": "#",
+      "subMenu": [
+        {
+          "title": "NAAC",
+          "link": "/rankings/NAAC/"
+        },
+        {
+          "title": "NIRF",
+          "link": "/rankings/NIRF/"
+        }
+      ]
+    },
+    {
+      "title": "Contact Forms",
+      "link": "#",
+      "subMenu": [
+        {
+          "title": "Contact US",
+          "link": "/contact-us/"
+        },
+        {
+          "title": "Feedback Form",
+          "link": "/feedback-form/"
+        }
+      ]
+    }
+  ]
+  
